@@ -1,0 +1,27 @@
+{
+  "name": "maelstrom",
+  "version": "1.0.0",
+  "description": "band website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss ./css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaidonKourounakis/maelstrom.git"
+  },
+  "keywords": [
+    "band",
+    "static",
+    "website"
+  ],
+  "author": "Faidon Kourounakis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaidonKourounakis/maelstrom/issues"
+  },
+  "homepage": "https://github.com/FaidonKourounakis/maelstrom#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
