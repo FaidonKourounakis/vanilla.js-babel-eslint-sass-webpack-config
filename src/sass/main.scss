@@ -1,0 +1,21 @@
+// import "abstracts/"
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+// import "base/"
+@import "base/base";
+@import "base/animations";
+@import "base/utilities";
+@import "base/typography";
+
+// @import "components/"
+
+// @import "layout/"
+@import "layout/header";
+@import "layout/footer";
+
+// import "pagess/";
+@import "pages/home";
+
+
+
