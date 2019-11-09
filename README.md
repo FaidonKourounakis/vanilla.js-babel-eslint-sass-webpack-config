@@ -27,5 +27,5 @@ $ npm run start
 - Import sass files/styles in `src/sass/main.scss`
 - Import JS files/scripts in `src/scripts/main.js`
 
-**Portfolio Website: ** 
+**Portfolio Website:** 
 [faidon.kourounakis](www.faidon.kourounakis.com)
